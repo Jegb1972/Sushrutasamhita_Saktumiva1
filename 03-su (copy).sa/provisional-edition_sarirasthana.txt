@@ -1932,9 +1932,15 @@
                     <l xml:id="SS.3.4.31.1"/>
 
                     <l xml:id="SS.3.4.31.2">
-                        <label xml:lang="en">cf. 1938 ed. 3.4.31</label>
+                        <label xml:lang="en">cf. 1938 ed. 3.4.31.2</label>
                         <caesura/>
-                         śoṇitakaphaprasādajaṃ hṛdayaṃ | yadāśrayā hi dhamanyaḥ prāṇavahās 
+                         śoṇitakaphaprasādajaṃ hṛdayaṃ | yadāśrayā hi dhamanyaḥ prāṇavahās </l>
+
+                    <l xml:id="SS.3.4.31.3"/>
+
+                    <l xml:id="SS.3.4.31.4">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.31.4</label>
+                        <caesura/>
                          tadviśeṣeṇa cetanāsthānam uktam || tasmiṃs tamasāvṛte
                         sarvvaprāṇinaḥ svapanti || </l>
 
@@ -1945,10 +1951,10 @@
                         <caesura/>
                          nidrān tu vaiṣṇavīṃ pāpmānam upadiśanti | sā svabhāvataḥ
                         sarvvaprāṇino nispṛśati | tatra yadā saṃjñāvahāni srotānsi
-                        tamobhūyiṣṭhaḥ śleṣmā pratipadyate  tadā tāmasī nāma nidrā
-                        bhavaty  | anavabodhinī sā pralayakāle | tamobhūyiṣṭhānām ahaḥsu ca
-                        niśāsu bhavati | rajobhūyiṣṭhānām animittaṃ | sattvabhūyiṣṭhānām
-                        ardharātre | kṣīṇaśleṣmaṇām anilabahulānām manobhighātāc ca
+                        tamobhūyiṣṭhaḥ śleṣmā pratipadyate || tadā tāmasī nāma nidrā
+                        bhavaty anavabodhinī sā pralayakāle tamobhūyiṣṭhānām ahaḥsu ca
+                        niśāsu bhavati | rajobhūyiṣṭhā nāma nimittasatvabhūyiṣṭhānām
+                        ardharātre kṣīṇaśleṣmaṇām anilabahulānām mano 'bhighātāc ca
                         vaikārikī || </l>
 
                     <l xml:id="SS.3.4.34">

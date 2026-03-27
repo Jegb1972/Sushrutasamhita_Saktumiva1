@@ -89,8 +89,8 @@
             <change when="2026-03-25" who="Dominik Wujastyk">Added page-begin markers with
                 facs attributes that match the IIIF image numbers delivered from
                 archive.org.</change>
-            <change when="2026-03-26" who="Dominik Wujastyk">Removed intrusive label
-                entities. </change>
+            <change when="2026-03-26" who="Dominik Wujastyk">Removed intrusive label entities.
+            </change>
         </revisionDesc>
 
     </teiHeader>
@@ -1010,24 +1010,26 @@ C) Special notes :
                     <l xml:id="SS.3.4.28ab"><lb n="3"/> jantoḥ saṃjāyate jihvā yayā
                         vedayate rasān || </l>
 
-               
+                    <!--          29 and 30 missing in MS?  Check. -->
 
 
                     <l xml:id="SS.3.4.31.2"> śoṇitakaphapra<cb/>sādajaṃ hṛdayaṃ |
-                        yadāsrayā hi dhamanyaḥ prāṇavahās tadviśeṣeṇa cetanāsthānam uktaṃ
-                        || tasmim̐s ta<lb n="4"/>masāvṛte sarvvaprāṇinaḥ svapanti || </l>
+                        yadāsrayā hi dhamanyaḥ prāṇavahās </l>
+
+                    <l xml:id="SS.3.4.31.4"> tadviśeṣeṇa cetanāsthānam uktaṃ || tasmim̐s
+                            ta<lb n="4"/>masāvṛte sarvvaprāṇinaḥ svapanti || </l>
 
 
 
-                    <l xml:id="SS.3.4.33"> nidrān tu vaiṣṇavīṃ pāpmānam upa<g
+                    <l xml:id="SS.3.4.33"> nidrān tu vaiṣṇaṃ vīpāpmānam upa<g
                             ref="#broken-danda"/><cb/>diśanti | sā svabhāvataḥ
                         sarvvaprāṇino nispṛśati | tatra yadā saṃjñāvahāni srotānsi
                             tamobhū<g ref="#broken-danda"/><lb n="5"/>yiṣṭhaḥ śleṣmā
-                        pratipadyate || tadā tāmasī nāma nidrā bhavaty ana<g
+                        pratipadyate || tadā tāmasī nāma nidrā bhavatyana<g
                             ref="#broken-danda"/><cb/>vabodhinī sā pralayakāle
-                        tamobhūyiṣṭhānām ahaḥsu ca niśāsu bhavati | rajobhūyiṣṭhānām a<lb
-                            n="6"/>nimitta satvabhūyiṣṭhānām ardharātre kṣīṇaśleṣmaṇām
-                        anilavahulānām manobhighātāc ca vaikārikī || </l>
+                        tamobhūyiṣṭhānāmahaḥsu ca niśāsu bhavati | rajobhūyiṣṭhā nāma<lb
+                            n="6"/> nimittasatvabhūyiṣṭhānām ardharātre kṣīṇaśleṣmaṇām
+                        anilavahulānām mano bhighātāc ca vaikārikī || </l>
 
                     <l xml:id="SS.3.4.34"> bhavanti cātra || hṛdayañ cetanāsthānaṃ muktaṃ
                         suśruta dehinām | tamobhi<pb n="170v" facs="174"/>bhūte tasmiṃs tu
