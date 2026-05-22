@@ -471,6 +471,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
                 </div>
 
 
@@ -2064,20 +2074,60 @@
                     <ab corresp="#SS.3.4.49" type="apparatus">
                         <list type="Note">
                             <item corresp="#SS.3.4.49-n1" xml:lang="en">The vulgate has
-                                six additional verses at this point, describing further
-                                special terms for sleep-related condiyions. These verses
-                                may be additions by later editors, or it may be that there
-                                was a saut du même au même by the scribe of witness H from
-                                the word <foreign xml:lang="sa">vinirdiśet</foreign> at the end of 49
-                                to the same word at the end of 55.</item>
+                                six verses at this point, describing further special terms
+                                for sleep-related conditions, that do not appear in witness
+                                H. These verses may be additions by editors after the
+                                sixteenth century. But it seems more likely that there was
+                                a saut du même au même by the scribe of witness H from the
+                                word <foreign xml:lang="sa">vinirdiśet</foreign> at the
+                                end of 49 to the same word at the end of 55. Therefore we
+                                include the verses here. Further evidence from manuscripts
+                                that transmit early readings may clarify this
+                                issue.</item>
                         </list>
                     </ab>
-                    <l xml:id="SS.3.4.50"/>
-                    <l xml:id="SS.3.4.51"/>
-                    <l xml:id="SS.3.4.52"/>
-                    <l xml:id="SS.3.4.53"/>
-                    <l xml:id="SS.3.4.54"/>
-                    <l xml:id="SS.3.4.55"/>
+
+                    <l xml:id="SS.3.4.50">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.50</label>
+                        <caesura/>
+                         pītvaikam anilocchvāsam udveṣṭan vivṛtānanaḥ |
+                        <caesura/>
+                         yaṃ muñcati sanetrāsraṃ sa jṛmbha iti saṃjñitaḥ || </l>
+
+                    <l xml:id="SS.3.4.51">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.51</label>
+                        <caesura/>
+                         yo 'nāyāsaḥ śramo dehe pravṛddhaḥ śvāsavarjitaḥ |
+                        <caesura/>
+                         klamaḥ sa iti vijñeya indriyārthaprabādhakaḥ || </l>
+
+                    <l xml:id="SS.3.4.52">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.52</label>
+                        <caesura/>
+                         sukhasparśaprasaṅgitvaṃ duḥkhadveṣaṇalolatā |
+                        <caesura/>
+                         śaktasya cāpy anutsāhaḥ karmasv ālasyam ucyate || </l>
+
+                    <l xml:id="SS.3.4.53">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.53</label>
+                        <caesura/>
+                         utkliśyānnaṃ na nirgacchet prasekaṣṭhīvaneritam |
+                        <caesura/>
+                         hṛdayaṃ pīḍyate cāsya tam utkleśaṃ vinirdiśet || </l>
+
+                    <l xml:id="SS.3.4.54">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.54</label>
+                        <caesura/>
+                         vaktre madhuratā tandrā hṛdayodveṣṭanaṃ bhramaḥ |
+                        <caesura/>
+                         na cānnam abhikāṅkṣeta glāniṃ tasya vinirdiśet ||</l>
+
+                    <l xml:id="SS.3.4.55">
+                        <label xml:lang="en">cf. 1938 ed. 3.4.55</label>
+                        <caesura/>
+                         ārdracarmāvanaddhaṃ vā yo gātraṃ manyate naraḥ |
+                        <caesura/>
+                         tathā guru śiro 'tyarthaṃ gauravaṃ tad vinirdiśet || </l>
 
                     <!-- SS.3.4.56 appears above, after 3.4.40 -->
 
@@ -3221,6 +3271,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
                 </div>
 
 
@@ -3479,6 +3539,16 @@
                          pratānāḥ padminī kandā dvisādīnāṃ yathājalaṃ ||</l>
 
                     <l xml:id="SS.3.7.trailer">iti śārīre saptamo dhyāyaḥ ||</l>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4430,6 +4500,16 @@
                          dhamanīvyākaraṇa caiva garbbhiṇyā pūryate daśa ||</l>
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ ||</l>
+
+
+
+
+
+
+
+
+
+
 
 
 
