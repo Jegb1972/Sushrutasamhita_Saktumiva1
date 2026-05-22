@@ -2,6 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 
         <fileDesc>
+      
             <titleStmt>
                 <title>The Nepalese Version of the Suśrutasaṃhitā, Cikitsāsthāna, adhyāyas
                     1-20, based on the Nepalese MSS</title>
@@ -111,6 +112,7 @@
                 lable, for clarity when reading on screen.</change>
 
         </revisionDesc>
+    
     </teiHeader>
 
     <text xml:lang="sa-Latn-t-sa-Deva" type="edition">
@@ -2729,8 +2731,11 @@
                             > </pc>vañjula<pc> </pc>tālīsa<pc> </pc>śṛṅgāṭaka<pc
                             > </pc>kaloḍya<pc> </pc>gaurī<pc> </pc>śaivala<pc
                             > </pc>padma<pc> </pc>prabhṛtibhir vvā dhānyāmlapiṣṭaḥ pradeho
-                        ghṛtamiśraḥ ||<anchor n="SS.4.5.8-n-1"/></l>
+                        ghṛtamiśraḥ ||<anchor n="SS.4.5.8-n-1"/> 
+                        </l>
 
+                   
+                    
                     <ab corresp="#SS.4.5.8" type="apparatus">
                         <list type="Emendation">
                             <item xml:lang="en" corresp="#SS.4.5.8-n1">We emend witness
