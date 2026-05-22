@@ -481,6 +481,7 @@
 
 
 
+
                 </div>
 
 
@@ -2075,7 +2076,7 @@
                         <list type="Note">
                             <item corresp="#SS.3.4.49-n1" xml:lang="en">The vulgate has
                                 six verses at this point, describing further special terms
-                                for sleep-related conditions, that do not appear in witness
+                                for sleep-related conditions that do not appear in witness
                                 H. These verses may be additions by editors after the
                                 sixteenth century. But it seems more likely that there was
                                 a saut du même au même by the scribe of witness H from the
@@ -2087,7 +2088,15 @@
                         </list>
                     </ab>
 
-                    <l xml:id="SS.3.4.50">
+                    <l xml:id="SS.3.4.50"/>
+                    <l xml:id="SS.3.4.51"/>
+                    <l xml:id="SS.3.4.52"/>
+                    <l xml:id="SS.3.4.53"/>
+                    <l xml:id="SS.3.4.54"/>
+                    <l xml:id="SS.3.4.55"/>
+
+
+                    <!--                  <l xml:id="SS.3.4.50">
                         <label xml:lang="en">cf. 1938 ed. 3.4.50</label>
                         <caesura/>
                          pītvaikam anilocchvāsam udveṣṭan vivṛtānanaḥ |
@@ -2128,14 +2137,23 @@
                          ārdracarmāvanaddhaṃ vā yo gātraṃ manyate naraḥ |
                         <caesura/>
                          tathā guru śiro 'tyarthaṃ gauravaṃ tad vinirdiśet || </l>
-
+-->
                     <!-- SS.3.4.56 appears above, after 3.4.40 -->
 
                     <l xml:id="SS.3.4.57">
                         <label xml:lang="en">cf. 1938 ed. 3.4.57</label>
                         <caesura/>
                          garbhasya khalu rasaguṇanimittān mātur āhāranimittāc ca
-                        parivṛddhir bhavati || </l>
+                        parivṛddhir bhavati || <anchor n="SS.3.4.57-n1"/>
+                    </l>
+                    <ab corresp="#SS.3.4.57" type="apparatus">
+                        <list type="Emendation">
+                            <item corresp="#SS.3.4.57-n1" xml:lang="en">We emend the final
+                                consonant <foreign xml:lang="sa">-t</foreign> of H in
+                                    <foreign xml:lang="sa">rasaguṇanimittān</foreign> for
+                                correct sandhi.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.3.4.58"/>
 
@@ -2146,14 +2164,14 @@
                         <caesura/>
                          bhavati cātra ||
                         <caesura/>
-                         dṛṣṭiś ca romakūpāś ca vardhante na kadācana |
+                         dṛṣṭiś ca romakūpāś ca varddhante na kadācana |
                         <caesura/>
                          dhruvāṇy etāni marttyānām iti dhanvantarer mmataṃ || </l>
 
                     <l xml:id="SS.3.4.61">
                         <label xml:lang="en">cf. 1938 ed. 3.4.61</label>
                         <caesura/>
-                         śarīre kṣīyamāṇe 'pi varddhate dvāv imau sadā |
+                         śarīre kṣīyamāṇe 'pi varddhete dvāv imau sadā |
                         <caesura/>
                          svabhāvam prakṛtiṅ kṛtvā nakhakeśāv iti sthitiḥ || </l>
 
@@ -2172,9 +2190,9 @@
                     <l xml:id="SS.3.4.64">
                         <label xml:lang="en">cf. 1938 ed. 3.4.64</label>
                         <caesura/>
-                         tatra vāta prakṛtijāgarūkaḥ śītadveṣī durbhagas tenonāryo
-                        mastarogāndharvvaḥ | sphuṭitakaracaraṇau rūkṣālpakeśaḥ smaśruḥ
-                        kaṭhimakrodhī dantakhādī alpavalo 'lpāyuś ca bhavati || </l>
+                         tatra vātaprakṛtir jāgarūkaḥ śītadveṣī durbhagasteno 'nāryo
+                        matsaro gāndharvvaḥ  sphuṭitacaraṇo rūkṣālpakeśasmaśruḥ
+                        kaṭhinakrodhī dantakhādī alpabalo 'lpāyuś ca bhavati || </l>
 
                     <l xml:id="SS.3.4.65">
                         <label xml:lang="en">cf. 1938 ed. 3.4.65</label>
@@ -3281,6 +3299,7 @@
 
 
 
+
                 </div>
 
 
@@ -3539,6 +3558,7 @@
                          pratānāḥ padminī kandā dvisādīnāṃ yathājalaṃ ||</l>
 
                     <l xml:id="SS.3.7.trailer">iti śārīre saptamo dhyāyaḥ ||</l>
+
 
 
 
@@ -4500,6 +4520,7 @@
                          dhamanīvyākaraṇa caiva garbbhiṇyā pūryate daśa ||</l>
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ ||</l>
+
 
 
 
