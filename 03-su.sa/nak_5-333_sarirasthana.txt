@@ -2694,7 +2694,7 @@ Half part of 57 found after 64-->
                         ātmanyeva na dhātryāḥ ||</l>
 
 
-                    <l xml:id="SS.3.10.44">vālā<cb/>nāṃ gudapākeṣu pittaghnīṃ kārayet
+                    <l xml:id="SS.3.10.44">bhavati cātra || vālā<cb/>nāṃ gudapākeṣu pittaghnīṃ kārayet
                         kriyāṃ |
                         <caesura/>
                          rasāñjanam viśeṣeṇa pānālepanayo<lb n="5"/>rhitaṃ ||</l>

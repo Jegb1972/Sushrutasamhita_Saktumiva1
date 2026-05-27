@@ -2585,10 +2585,10 @@
 
                     <l xml:id="SS.3.10.37"> teṣu yathābhihitaṃ mṛdv acchedanīyam auṣadhaṃ
                         mātrayā kṣīrapasya kṣīrasarpiṣā saṃyuktaṃ vidadhyāt, dhātryāś ca
-                        kevalaṃ, kṣīrānnād asyātmani dhātryāś ca pūrvavat, annādasya
+                        kevalaṃ, kṣīrānnād asyātmani dhātryāś ca pūrvavat, annād asya
                         kaṣāyādīn ātmany eva na dhātryāḥ ||37|| </l>
 
-                    <l xml:id="SS.3.10.38"> tatra māsādūrdhvaṃ
+                    <l xml:id="SS.3.10.38"> tatra māsād ūrdhvaṃ
                         kṣīrapāyāṅguliparvadvayagrahaṇasaṃmitāmauṣadhamātrāṃ vidadhyāt,
                         kolāsthisaṃmitāṃ kalkamātrāṃ kṣīrānnādāya, kolasaṃmitāmannādāyeti
                         ||38|| </l>
@@ -2604,9 +2604,9 @@
 
                     <l xml:id="SS.3.10.41"> na ca tṛṣṇābhayādatra pāyayeta śiśuṃ stanau |
                         <caesura/>
-                         virekabastivamanānyṛte kuryāc ca nātyayāt ||41||</l>
+                         virekabastivamanāny ṛte kuryāc ca nātyayāt ||41||</l>
 
-                    <l xml:id="SS.3.10.42"> mastuluṅgakṣayādyasya vāyustālvasthi nāmayet |
+                    <l xml:id="SS.3.10.42"> mastuluṅgakṣayād yasya vāyus tālvasthi nāmayet |
                         <caesura/>
                          tasya tṛḍdainyayuktasya sarpirmadhurakaiḥ śṛtam ||42|| </l>
 
