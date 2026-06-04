@@ -1707,7 +1707,7 @@ Special Note:
                             madhukaśṛṅgaveraharītakītiktarohiṇī<unclear>ke</unclear>lkam vā |
                         sakṣaudramūtreṇa toyena ha<g ref="#newa-gap-filler"/><lb n="6"/>rītakīm
                         pāyayet | tailamūtrakṣārodakasurāsuktaiś ca <unclear>pa</unclear>riṣekaḥ |
-                        āragvadhādikaṣāyeṇa vā mastumūtrasurāśuktāmadhukaśārivāpadmakasiddhe vā
+                        āragvadhādikaṣāyeṇa vā mastu<pc> </pc>mūtra<pc> </pc>surā<pc> </pc>śuktā<pc> </pc>madhuka<pc> </pc>śārivā<pc> </pc>padmaka<pc> </pc>siddhe vā
                         sarppiṣābhyaṅgaḥ | <pb n="219v" facs="223"/><lb n="1"/>śvetasarṣṣapakalkaḥ |
                             tilāśvagandhā<metamark cert="high"
                             function="Perhaps_the_mariginal_word_is_the_replacement_for_kalkaḥ"
