@@ -1811,7 +1811,7 @@
                         <caesura/>
                          karttavyañ ca trirātraṃ syāt tathā grīṣmeṣu jānatā || </l>
 
-                    <l xml:id="SS.4.8.add2">
+                    <l xml:id="SS.4.3.8.add2">
                         <label xml:lang="en">4.3.8.add2</label>
                         <caesura/>
                          kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>

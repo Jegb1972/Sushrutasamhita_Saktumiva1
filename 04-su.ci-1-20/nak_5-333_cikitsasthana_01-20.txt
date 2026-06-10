@@ -1172,7 +1172,7 @@ Special Note:
                                 tathā<subst><del>gneye</del>
                             <add place="below">grīṣme</add></subst>ṣu jānatā || </l>
 
-                    <l xml:id="SS.4.3.8add2"> kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>
+                    <l xml:id="SS.4.3.8.add2"> kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>
 
                     <l xml:id="SS.4.3.9"> tatrā<pb n="212v" facs="216"/>tiśithilaṃ baddhe sandhiḥ
                         sthairyan na jāyate || </l>
