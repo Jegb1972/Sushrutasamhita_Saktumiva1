@@ -106,8 +106,7 @@
 
                     <head xml:lang="en">[Adhyāya 1]</head>
 
-                    <note xml:lang="en">MS Kathmandu KL 699 (K) is a witness only for
-                        3.1.1 below. </note>
+                    <note xml:lang="en">MS Kathmandu KL 699 (K) is a witness only for 3.1.1 below. </note>
                     <note xml:lang="en">MS Kathmandu NAK 1-1079 (N) is a witness only up
                         to 3.2.35, at which point the scribe stopped writing in
                         mid-folio.</note>
@@ -468,7 +467,6 @@
 
                     <l xml:id="SS.3.1.trailer">śārīrasya prathamo 'dhyāyaḥ || </l>
                 </div>
-
 
                 <div n="2" type="adhyāya">
 
@@ -1662,8 +1660,8 @@
 
                 <div n="4" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 4]</head>
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+
+                    <note xml:lang="en">The text of this adhyāya is supported by MS NAK 5-333.</note>
 
                     <l xml:id="SS.3.4.1">
                         <label xml:lang="en">cf. 1938 ed. 3.4.1</label>
@@ -2453,9 +2451,7 @@
 
                     <head xml:lang="en">[Adhyāya 5]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a lightly edited
-                        transcript of NAK 5-333, waiting for full critical
-                        attention.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention.</note>
 
                     <l xml:id="SS.3.5.1">
                         <label xml:lang="en">cf. 1938 ed. 3.5.1</label>
@@ -2846,12 +2842,10 @@
 
                 </div>
 
-
                 <div n="6" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 6]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention.</note>
 
                     <l xml:id="SS.3.6.1">
                         <label xml:lang="en">cf. 1938 ed. 3.6.1</label>
@@ -3302,14 +3296,10 @@
 
                 </div>
 
-
-
-
                 <div n="7" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 7]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention.</note>
 
                     <l xml:id="SS.3.7.1">
                         <label xml:lang="en">cf. 1938 ed. 3.7.1</label>
@@ -3581,12 +3571,10 @@
 
                 </div>
 
-
                 <div n="8" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 8]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention..</note>
 
                     <l xml:id="SS.3.8.1">
                         <label xml:lang="en">cf. 1938 ed. 3.8.1</label>
@@ -3821,13 +3809,10 @@
                          iti śārīre 'ṣṭamo 'dhyāyaḥ || </l>
                 </div>
 
-
-
                 <div n="9" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 9]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention.</note>
 
                     <l xml:id="SS.3.9.1">
                         <label xml:lang="en">cf. 1938 ed. 3.9.1</label>
@@ -4018,8 +4003,7 @@
                 <div n="10" type="adhyāya">
                     <head xml:lang="en">[Adhyāya 10]</head>
 
-                    <note xml:lang="en">The text of this adhyāya is a duplicate of NAK
-                        5-333, waiting to be edited.</note>
+                    <note xml:lang="en">The text of this adhyāya is a lightly edited transcript of NAK 5-333, waiting for full critical attention.</note>
 
                     <l xml:id="SS.3.10.1">
                         <label xml:lang="en">cf. 1938 ed. 3.10.1</label>
