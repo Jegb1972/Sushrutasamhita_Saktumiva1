@@ -1,0 +1,21 @@
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 5 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   04-su.ci-1-20/04-ci-vulgate-1938_01-20.txt
+	modified:   04-su.ci-1-20/provisional-edition_cikitsasthana_01-20.txt
+	modified:   start-vaikuntha.md
+	modified:   translation/chapters/translation 3-04.tex
+	modified:   translation/incremental_SS_Translation.bib
+	modified:   translation/incremental_SS_Translation.pdf
+	modified:   translation/incremental_SS_Translation.tex
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	saved-updated-files.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
