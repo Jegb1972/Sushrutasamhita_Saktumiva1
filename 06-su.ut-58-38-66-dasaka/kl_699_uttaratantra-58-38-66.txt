@@ -1855,7 +1855,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej
                         jalaṃ | </l>
 
-                    <l xml:id="SS.6.64.11e"> pūrvānilaṃ gharmasevāmudamanthaṃ sarijjalaṃ | </l>
+                    <l xml:id="SS.6.64.11e"> pūrvānilaṃ gharmasevām udamanthaṃ sarijjalaṃ | </l>
 
                     <l xml:id="SS.6.64.13ab"> di<lb n="6"/>vāsvapnam avaśyāyaṃ varjayec
                         cātra maithunaṃ | </l>
@@ -1987,7 +1987,7 @@ iii) 19ef is placed after 18ab     -->
                             suvistīr<unclear>ṇṇe</unclear> manorame | </l>
 
                     <l xml:id="SS.6.64.27d"> sevyamā<cb/>no mṛduśparśair nirdayair
-                        upagūhanaiḥ | </l>
+                        upagūhanaiḥ | </l>gharmasev
 
                     <l xml:id="SS.6.64.27e"> tatrā<unclear reason="damaged"
                         >pa</unclear>nītahārāṃś tu priyā nāryaḥ
