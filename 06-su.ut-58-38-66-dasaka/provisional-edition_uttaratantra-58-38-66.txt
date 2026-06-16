@@ -2804,7 +2804,7 @@
                         <caesura/>
                          paṭolanimbavetrāgratiktaiś cānyair himātyaye |
                         <caesura/>
-                         sevenmadhvāsavāriṣṭāṃ sīdhuṃ mādhvīkam eva ca | </l>
+                         seven madhvāsavāriṣṭān sīdhuṃ mādhvīkam eva ca | </l>
 
                     <l xml:id="SS.6.64.36">
                         <label xml:lang="en">cf. 1938 ed. 6.64.36</label>

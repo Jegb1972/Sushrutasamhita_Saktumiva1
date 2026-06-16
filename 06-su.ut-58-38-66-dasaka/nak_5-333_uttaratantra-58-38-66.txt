@@ -2337,7 +2337,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ || </l>
 
-                    <l xml:id="SS.6.64.35"> paṭolanimbavetrāgrati<lb n="2"/>kaiś cānyair
+                    <l xml:id="SS.6.64.35"> paṭolanimbavetrāgrati<lb n="2"/>ktaiś cānyair
                         himātyaye |
                         <caesura/>
                         <gap reason="omitted" extent="3" unit="char"/>dhvāsavāriṣṭā
