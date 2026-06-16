@@ -1,0 +1,538 @@
+% \section{Load various local standard macro packages}
+%  \begin{environment}{packages}
+% Load my standard Xe\LaTeX\ macros.  They are 
+% maintained and published here:
+% \url{https://github.com/wujastyk/xelatex}
+% They do things like set up Polyglossia, choose fonts and languages,
+% load bib\LaTeX\ and point to my bibliography, etc.
+%    \begin{macrocode}
+\usepackage{%
+    xelatex-generic,
+    xelatex-biblatex,
+    xelatex-indexing,
+    booktabs, % better-looking tables
+}
+%    \end{macrocode}
+%  \end{environment}
+%
+%    \begin{environment}{hyperref}
+% Here we load hyperref and set the colours
+%we want for hyperlinking.
+%
+% Perhaps we should put it at this position \emph{after} loading 
+% the index/glossaries package, \verb|xelatex-indexing|,
+% to avoid clashes?  However, things seem okay.  
+% See the documentation to
+% \verb|indextools| on this topic of priority. 
+%    \begin{macrocode}
+\hypersetup{
+    final=true, % so it doesn't get turned off by “draft”
+    linkcolor = indigo,
+    anchorcolor = indigo,
+    citecolor = indigo,
+    filecolor = indigo,
+    urlcolor = indigo,
+    menucolor = indigo,
+    %  pagecolor = indigo,
+}
+%{hyperref}  
+%    \end{macrocode}
+%    \end{environment}
+%
+%\begin{macro}{xelatex-glossaries.sty}
+%    Load \verb|xelatex-glossaries| \emph{after} \verb|hyperref|, so that
+%    indexed words in the main text get linked to the glossary.
+%    \begin{macrocode}
+\usepackage{xelatex-glossaries}
+%    \end{macrocode}    
+%\end{macro}
+%
+%\begin{macro}{tikz}
+%    Load \verb|tikz| settings for the figure in 3.1:
+%    \begin{macrocode}
+\usetikzlibrary{arrows.meta, positioning, decorations.pathmorphing}
+%    \end{macrocode}    
+%\end{macro}
+%
+% \begin{macro}{\definecolor}
+% And define our desired colours for hyperref above, 
+% with the help of \url{http://latexcolor.com/}.  
+%
+% This needs to be stated here, not earlier,
+% because \verb|\definecolour| is dependent on the xcolor package loaded
+% in the main incremental\_SS\_Translation.tex file.
+%    \begin{macrocode}
+%\definecolor{darkbrown}{rgb}{0.4, 0.26, 0.13} 
+\definecolor{indigo}{rgb}{0.0, 0.25, 0.42}
+%    \end{macrocode}
+%  \end{macro}
+%
+% \section{Running headers and page numbering}
+%  \begin{environment}{fancyhdr}
+% Use the fancyhdr package to set up the running headers.
+%    \begin{macrocode}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{14.49998pt} % as instructed by log file
+% manual p.18
+\fancyhf{}%
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+%
+\fancyhead[LE]{\thepage}
+\fancyhead[RE]{\nouppercase{\emph{\leftmark}}}
+\fancyhead[LO]{\nouppercase{\emph{\rightmark}}}
+\fancyhead[RO]{\thepage}
+%    \end{macrocode}
+%  \end{environment}
+%
+%    \begin{macro}{\secounter}
+%  We don't want huge CHAPTER 1 headings
+%    \begin{macrocode}
+\setcounter{secnumdepth}{-2}
+%    \end{macrocode}
+%    \end{macro}
+%
+%  \begin{environment}{plain, empty}
+% We don't want page numbers on a \verb|\part| page.  Redefine pagestyle
+% plain as empty. This code is taken from 
+%\href{https://tex.stackexchange.com/questions/359079/how-do-you-get-rid-of-page-numbers-on-part-pages}
+%{Stack Exchange}.
+%    \begin{macrocode}
+\let\ps@plain\ps@empty
+%    \end{macrocode}
+%  \end{environment}
+%
+%
+% \section{Some more packages}
+%  \begin{environment}{pdfpages, wasysym}
+% pdfpages helps us to include pdfs in our document; wasysym loads 
+% a wide range of special symbols that can be useful. 
+%    \begin{macrocode}
+\usepackage[final]{pdfpages}
+\usepackage[nointegrals]{wasysym}%for the blob symbols in the table
+%    \end{macrocode}
+%  \end{environment}
+% \section{More formatting macros}
+%  \begin{macro}{\hangfootnotes}
+% Nice formatting for footnotes with hanging indents.  
+% Originally defined in my xelatex-generic style file,
+% but redefined here with a larger leftskip because numbers get to
+% four digits. 
+%
+% Adapted from
+% \url{http://www.ceus-now.com/raggedright-in-footnotes-with-hanging-indent/}
+%
+%    \begin{macrocode}
+\renewcommand\hangfootnotes{%
+    \long\def\@makefntext##1{\leftskip=2.25em\hskip-2.25em\hb@xt@2.25em
+        {\@thefnmark\hss}##1}}
+\hangfootnotes
+%    \end{macrocode}
+%  \end{macro}
+%    \end{macrocode}
+%  \end{macro}
+%
+%  \begin{environment}{penalties}
+% Make nicer pages.
+%    \begin{macrocode}
+\widowpenalty 1500 	% default 150
+\clubpenalty 1000 	  % default 150
+\brokenpenalty 2000 % default 100
+%    \end{macrocode}
+%    \end{environment}
+%    \begin{environment}{draftwatermark}
+%  Options for adding a watermark to the whole document. 
+% 
+%    \begin{macrocode}
+ \usepackage[
+ text={Draft of \today\ \copyright\ Suśrutaproject.org},
+ color={[gray]{0.95}},
+ scale=.2]{draftwatermark}
+%    \end{macrocode}
+%    \end{environment}
+%
+%  \begin{environment}{itemsep}
+%  Use the itemsep package to improve the spacing of lists.
+%    \begin{macrocode}
+\setlist[enumerate]{noitemsep} % enumitem global setting for \items
+\setlist[itemize]{noitemsep} 
+%    \end{macrocode}
+%  \end{environment}
+%
+%  \begin{environment}{qtree}
+%  Use the \verb|qtree| package to draw tree-diagrams (see the snakes diagrams 
+%in kalpasthāna 4).
+%    \begin{macrocode}
+\usepackage{qtree} 
+%    \end{macrocode}
+%  \end{environment}
+%
+%  \begin{environment}{quoting}
+%  Use the \verb|quoting| package for more flexible quote environments:
+%    \begin{macrocode}
+\usepackage[vskip=0pt]{quoting} 
+%    \end{macrocode}
+% We can now say \verb|\begin[<options>]{quoting} ... \end{quoting}| and use 
+% the \verb|<options>| for better control.  The default here is set to have no
+% space above or below the quotation. 
+%  \end{environment}
+%
+% \section{Fonts and languages}
+% These are all macros from the Polyglossia package (which uses Fontspec).
+%  \begin{macro}{\fontfamily}
+% Set up a Devanagari font. 
+%    \begin{macrocode}
+\renewfontfamily\devanagarifont
+    [Script=Devanagari,
+    FakeStretch=1.05,
+    Mapping=RomDev, %prefer RomDev slightly to iast. RomDev needs a{}ṃś, 
+    %see https://github.com/somadeva/RomDev/issues/4
+    ]
+% {Murty Sanskrit}
+% {Sahadeva}
+%   {Sanskrit  2020} % hard to beat, but poor roman
+{Tiro Devanagari Sanskrit} % as good as Sanskrit 2003, better roman, less 
+% contrast with Latin text.
+%    \end{macrocode}
+% Set up Tamil.
+%    \begin{macrocode}
+\newfontfamily\tamilfont
+    {Maduram}
+%{Noto Serif Tamil}
+\setotherlanguage{tamil}
+%    \end{macrocode}
+%
+% Set up Malayalam.
+%    \begin{macrocode}
+\newfontfamily\malayalamfont{PedanticMalayalam}%{Noto Serif Malayalam}
+\setotherlanguage{malayalam}
+%    \end{macrocode}
+%  \end{macro}
+
+% Set up Bengali.
+%
+% We say \verb|\renew...| because Bangla is already defined 
+% in the file \texttt{xetex-generic.sty}.  We renew the definition
+% here in case we want to choose a different Bengali font just
+% for this document. Note that we explicitly state the Script.
+%    \begin{macrocode}
+\renewfontfamily\bengalifont[Script=Bengali]{Tiro Bangla}
+\setotherlanguage{bengali}
+%    \end{macrocode}
+%   \end{macro}
+%
+% \section{Bibliography magic}
+%  \begin{macro}{\DeclareFieldFormat}
+% Here are some hacks for Bib\LaTeX\ that make the hyperlinks for URLs and 
+% DOIs pretty in the bibliography.
+%
+% First, option to just print hyperlinked “URL” in the bibliography, 
+% not the long, ugly URL.
+%    \begin{macrocode}
+\DeclareFieldFormat{url}{%
+    \textsc{url:}\space
+    \ifhyperref
+    {\url{#1}}
+    %{\href{#1}{\textsc{url:}}}
+    {\nolinkurl{#1}}
+    } %DW bug here
+%    \end{macrocode}
+% Now a macro to make the ARK and DOI links do the right thing.
+%    \begin{macrocode}
+\DeclareFieldFormat{eprint:ark}{%
+    \textsc{ark:}\space
+    \ifhyperref  
+    {\href{https://n2t.net/#1}{#1}}
+    {\nolinkurl{#1}}
+    }
+%
+\DeclareFieldFormat{doi}{%
+    \textsc{doi:}\space
+    \ifhyperref  
+    {\href{https://doi.org/#1}{#1}}
+    {\nolinkurl{#1}}
+    }
+%    \end{macrocode}
+%  \end{macro}
+%
+% \section{Layout of the translation texts}
+%  \begin{environment}{translation}
+%% Make a new environment for the translation with tweaked spacing.
+%% The old-fashioned LaTeX way, but this is legacy code that we're not
+% actually using:
+%    \begin{macrocode}
+% \newenvironment{translation}
+%    {\begin{itemize}[noitemsep,
+%            left=0pt .. \parindent]}
+%    {\end{itemize}}
+%    \end{macrocode}
+%
+%\noindent This is what we are actually doing.
+% Make a new environment for the translation with tweaked spacing,
+% the enumitem way:
+%    \begin{macrocode}
+\newlist{translation}{enumerate}{2}
+\setlist[translation]{%
+    label=\textbullet,
+    noitemsep,
+    left=0pt .. \parindent}
+%    \end{macrocode}
+%  \end{environment}
+%
+%\section{Tweak the \verb|\paragraph|} 
+% Make the \verb|\paragraph| heading more like \verb|\subsubsection|}.  
+% Taken from \verb|book.cls| and updated 
+% with \verb|\itshape| in place of \verb|\textbf|.
+% \begin{macro}{\paragraph}
+%    \begin{macrocode}
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+     {-3.25ex\@plus -1ex \@minus -.2ex}%
+     {1.5ex \@plus .2ex}%
+     {\normalfont\normalsize\itshape}}
+%    \end{macrocode}
+% \end{macro}
+% \newpage
+% \section{Home-made commands for general convenience and consistency}
+% \subsection{Referring to standard editions}
+%   \begin{macro}{\Su}
+% This creates references to the \emph{Suśrutasaṃhitā} vulgate text, like this:
+% 
+% \begin{quote}
+%  \verb|\Su{2.5}{564}| generates “2.5 (Su 1938: 564)”
+% \end{quote}%
+% \noindent 
+% \#1 = the canonical reference (sthāna, adhyāya, verse)\\
+% \#2 = page number in Ācārya's third edition
+%
+% Later, when we've got our own numbers for our Nepalese edition, 
+% we may decide to add them as a third argument.
+%
+% Here's the definition:
+%    \begin{macrocode}
+\newcommand{\Su}[2]{#1 \parencite[#2]{vulgate}}
+%    \end{macrocode}
+%  \end{macro}
+%
+%  \begin{macro}{\SuComma}
+% And here's a variant that does the same thing but without parentheses.
+% For example:
+% \begin{quote}
+%  \verb|\SuComma{2.5}{564}| generates “2.5, Su 1938: 564”
+% \end{quote}
+% Here's the code:
+%    \begin{macrocode}
+\newcommand{\SuComma}[2]{#1, \cite[#2]{vulgate}} 
+%    \end{macrocode}
+%    \end{macro}
+%
+%  \begin{macro}{\Ca}
+% The same idea, for the \emph{Carakasaṃhitā} vulgate:
+%    \begin{macrocode}
+\newcommand{\Ca}[2]{#1 \parencite[#2]{cara-trikamji3}}
+%    \end{macrocode}
+%    \end{macro}
+%
+%  \begin{macro}{\As, \Ah, \Cakra, \Dalhana, \Ka}
+% The same idea, for the \emph{Aṣṭāṅgasaṅgraha} vulgate by Aṭhāvale 
+% and other standard editions:
+%    \begin{macrocode}
+\newcommand{\As}[2]{#1 \citep[#2]{atha-1980}} 
+%    \end{macrocode}
+% \noindent \#1 = canonical
+% \\ \#2 = page of Aṭhāvale's edition
+%
+%    \begin{macrocode}
+\newcommand{\Ah}[2]{#1 \citep[#2]{kunt-1939}} % references to the 
+%\emph{Hṛdaya}, 
+%    \end{macrocode}
+% \noindent  \#1 = canonical
+% \\ \#2 = page of Kunte and Navare's 6th edition
+%
+%    \begin{macrocode}
+\newcommand{\Cakra}[2]{Cakrapāṇidatta on #1 \citep[#2]{acar-1939}} % 
+%    \end{macrocode}
+% references to the 1939 ed, \emph{Bhānumatī} 
+% \\ \#1 = canonical
+% \\ \#2 = page of edition
+%
+%    \begin{macrocode}
+\newcommand{\Dalhana}[2]{Ḍalhaṇa on #1 \citep[#2]{vulgate}} 
+%    \end{macrocode}
+% references to the 1938$^2$ ed, 
+% \\ \#1 = canonical
+% \\ \#2 = page of edition
+%    \begin{macrocode}
+\newcommand{\Ka}[2]{#1 \citep[#2]{hema-1938}} 
+%    \end{macrocode}
+% \noindent \#1 = canonical
+% \\ \#2 = page of Hemarājaśarman's edition
+%    \end{macro}
+%
+% \subsection{Names of works}
+%  \begin{macro}{\AH, \AS, \SS, \AHS, \CS, \Utt}
+% Some simple shortcuts for the names of texts.
+%    \begin{macrocode}
+\renewcommand{\SS}{\emph{Suśrutasaṃhitā}}
+\newcommand{\AS}{\emph{Aṣṭāṅgasaṅgraha}}
+\newcommand{\AHS}{\emph{Aṣṭāṅgahṛdayasaṃhitā}}
+\renewcommand{\AH}{\emph{Aṣṭāṅgahṛdayasaṃhitā}}
+\renewcommand{\CS}{\emph{Carakasaṃhitā}}
+\newcommand{\Utt}{\emph{Uttaratantra}}
+%    \end{macrocode}
+%    \end{macro}
+%
+% \subsection{Citing Sanskrit words in the text}
+%  \begin{macro}{\se, \sed, \seEngOnly}
+% The main commands \verb|\saneng| and \verb|\sanengdev| are 
+% defined elsewhere.  In xelatex-indexing-xindex.sty.  What we're doing
+% here is just making some convenient shortcuts, \verb|\se| (“Sanskrit-English”)
+% and \verb|\sed| “Sanskrit-English-Use Devanagari”.  These commands print
+% the English word followed by the Sanskrit in parentheses.  
+%
+% They are used like this:
+%\begin{quote}
+%    \verb|\se{vāta}{wind}| generates “wind (\emph{vāta})”\\
+%    \verb|\sed{vāta}{wind}| generates “wind (\dev{वात})”
+%\end{quote}
+%    \begin{macrocode}
+\let\se\saneng  % just make typing a bit quicker
+\newcommand{\sepl}[2] % crude pluralization, based on saneng in 
+%xelatex-indexing-xelatex.sty
+    {#2s (\emph{#1})%
+    \index[lexical]{#2@\MakeLowercase{#2}!#1@\emph{#1}}%
+    \index[lexical]{#1@\emph{#1}!#2@\MakeLowercase{#2}}}
+     % crude pluralization
+\let\sed\sanengdev % puts the Skt. in the text into Devanagari.
+\providecommand{\seEngOnly}[2]{#2} % just print the English
+%    \end{macrocode}
+% Incidentally, they also send
+% the words to the index at the back of the book.
+% This is set up in the file xelatex-indexes.sty. 
+%  \end{macro}
+%
+% \subsection{Grammatical root}
+%  \begin{macro}{\root}
+% Just makes “\verb|\root bhū|” do what you would expect.
+%    \begin{macrocode}
+\def\root{\ifmmode\surd\else$\surd$\fi }
+%    \end{macrocode}
+%  \end{macro}
+%
+% \subsection{Marginal notes}
+%  \begin{macro}{\q}
+% This short command stands for “query” and puts a comment or 
+% query into a yellow
+% box in the margin of the text. It's not defined here, but in xelatex-generic.sty.
+% But just for information, here is how it is set up, using the todonotes package.
+%    \begin{macrocode}
+% \usepackage[colorinlistoftodos,
+%%    disable,
+%       textsize=tiny,
+%       shadow,
+%       backgroundcolor=yellow]{todonotes}
+%
+%\def\q#1{{}\todo{#1}{}}
+%    \end{macrocode}
+% We put \verb|\newpage| \verb|\listoftodos| just before \verb|\end{document}|
+% to get a helpful index of these queries. 
+%  \end{macro}
+%
+% \subsection{Marking differences}
+%  \begin{macro}{\diff}
+% Mark significant differences in the translation of the 
+% Nepalese text by putting a red changebar 
+% in the right margin.
+% This is probably just for the draft text, to make interesting 
+% differences obvious so we can write about them later.
+%    \begin{macrocode}
+% %\usepackage[xetex,color,rightbars]{changebar}
+% %\cbcolor{red}
+% %\newcommand{\diff}[1]{\cbstart #1\cbend {}}
+%    \end{macrocode}
+% The changebar package wasn't working well with quotations etc.,
+% so I've moved back to a very simple colour system:
+%    \begin{macrocode}
+\newcommand{\diff}[1]{\textcolor{red}{#1}}
+%    \end{macrocode}
+%    \end{macro}
+%
+% \subsection{Auto-translation and Index of Materia Medica}
+%  \begin{macro}{\gls}
+%This is not defined here, but in xelatex-glossaries.sty.  It is used like this:
+%\begin{quote}
+%    \verb|\gls{śatāvarī}| generates “wild asparagus”
+%\end{quote}
+%The command looks up the Sanskrit item in our plants.bib database and
+%replaces it with the English term.  It also makes an entry for the 
+% \emph{Index of Materia Medica.}
+%  \end{macro}
+%
+% \section{Legacy commands}
+%  \subsection{For the old, four-argument plant command}
+%  \begin{macro}{manyfoot, \plant}
+% Calling the manyfoot package to use in the definition of 
+% \verb|\plant|.  
+% It puts notes about plants in a second layer of footnotes.
+% This is a legacy command we don't use any more.  It's here for historical
+% reasons and in case there are any left over by mistake.
+%    \begin{macrocode}
+\usepackage[ruled]{manyfoot}
+\DeclareNewFootnote{A}[roman]
+%    \end{macrocode}
+%  \end{macro}
+%
+% \subsection{Some undefined environments}
+%  \begin{environment}{prose, verse, bhavanti phrase}
+% These environments can be used, but they are currently
+% defined to do nothing.  We might want to do something
+% in future.
+%    \begin{macrocode}
+\newenvironment{prose}{\relax }{\relax }
+\renewenvironment{verse}{\relax }{\relax }
+\newenvironment{bhavanti}{\relax }{\relax }
+%    \end{macrocode}
+%  \end{environment}
+%
+% \subsection{Load the xcolor package here, just before the document begins}
+% \begin{macro}{xcolor}
+%    \begin{macrocode}
+\usepackage[table]{xcolor} % why here?  Move it to the sty file?
+%    \end{macrocode}
+% \end{macro}
+%
+%\subsection{Private, local commands}
+%\begin{macro}{\egls, \gvdb}
+% Print the glossary entry followed by the transliterated 
+% Sanskrit in parentheses
+%    \begin{macrocode}
+\newcommand{\egls}[1]{\gls{#1} (\emph{#1})}
+%    \end{macrocode}
+%\end{macro}
+%
+%\begin{macro}{\gvdb}
+%  Shorthand for references to \verb|\cite{gvdb}| that I use very often
+%    \begin{macrocode}
+\newcommand{\gvdb}[1]{\cite[#1]{gvdb}}
+\newcommand{\gvdbt}[1]{\citet[#1]{gvdb}}
+%    \end{macrocode}
+%\end{macro}
+%
+%  \begin{macro}{\ark}
+% Shorthand for the bib file:
+%    \begin{macrocode}
+\providecommand{\ark}[1]{\href{http://n2t.net/#1}{#1}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{tabularray}
+% A more modern and better-looking table package, to replace array, 
+% tabular and longtable:
+%    \begin{macrocode}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+%\DefTblrTemplate{firsthead, middlehead,lasthead}{default}{}
+%    \end{macrocode}
+% \end{macro}
+%     \newpage
+%    \PrintIndex  
