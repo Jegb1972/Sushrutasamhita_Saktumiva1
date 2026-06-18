@@ -2844,15 +2844,15 @@
                     <l xml:id="SS.6.64.39.add2">
                         <label xml:lang="en">6.64.39.add2</label>
                         <caesura/>
-                         pīnastanorujaṃ ghānāṃ rūpayauvaśālinīṃ | </l>
+                         pīnastanorujaghanāṃ rūpayauvanaśālinīm | </l>
                     <l xml:id="SS.6.64.39.add3">
                         <label xml:lang="en">6.64.39.add3</label>
                         <caesura/>
-                         kānaneṣu vicitreṣu sarvālaṅkārabhūṣitāṃ | </l>
+                         kānaneṣu vicitreṣu sarvālaṅkārabhūṣitām | </l>
                     <l xml:id="SS.6.64.39.add4">
                         <label xml:lang="en">6.64.39.add4</label>
                         <caesura/>
-                         romayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
+                         rāmayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
                     <l xml:id="SS.6.64.39.add5">
                         <label xml:lang="en">6.64.39.add5</label>
                         <caesura/>
