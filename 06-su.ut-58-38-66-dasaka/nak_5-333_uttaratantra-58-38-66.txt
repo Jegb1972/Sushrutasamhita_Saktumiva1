@@ -2367,7 +2367,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.39.add1"> śuciḥ <gap reason="omitted" extent="6"
                             unit="char"/>ścandanāga<cb/>rubhūṣitaḥ || </l>
-                    <l xml:id="SS.6.64.39.add2"> pīnastanorujaṃ ghānā rūpayauvanaśālinīṃ || </l>
+                    <l xml:id="SS.6.64.39.add2"> pīnastanorujaṃghānā rūpayauvanaśālinīṃ || </l>
                     <l xml:id="SS.6.64.39.add3"> kānaneṣu vicitreṣu sarvvālaṅkārabhū<lb n="5"
                     />ṣitāṃ | </l>
                     <l xml:id="SS.6.64.39.add4"> rāmayed yāvad ut<unclear>sā</unclear>haṃ
