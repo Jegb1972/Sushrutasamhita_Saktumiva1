@@ -2263,29 +2263,30 @@
                         <caesura/>
                          suptaḥ san sakamalahaṃsacakravākān
                         <caesura/>
-                         sampaśyed api ca jalāśrayān manojñāṃ || </l>
+                         sampaśyed api ca jalāśrayān manojñān || </l>
 
                     <l xml:id="SS.3.4.74" met="toṭaka"/>
 
                     <l xml:id="SS.3.4.75">
                         <label xml:lang="en">cf. 1938 ed. 3.4.75</label>
                         <caesura/>
-                         dṛḍhaśāstramatiḥ sthiramitramanaḥ
+                         dṛḍhaśāstramatiḥ sthiramitramanāḥ
                         <caesura/>
-                         parigaṇya cirāc ca dadāti vahuḥ
+                         parigaṇya cirāc ca dadāti bahu |
                         <caesura/>
-                         pariniṣṭatavākyapadaḥ satataṃ
+                         pariniṣṭhitavākyapadaḥ satataṃ
                         <caesura/>
                          gurumānakaraś ca kaphaprakṛtiḥ || </l>
 
                     <l xml:id="SS.3.4.76"/>
-
-                    <l xml:id="SS.3.4.77">
-                        <label xml:lang="en">cf. 1938 ed. 3.4.77</label>
+                    <l xml:id="SS.3.4.77"/>
+                    
+                    <l xml:id="SS.3.4.77.add">
+                        <label xml:lang="en">3.4.77.add</label>
                         <caesura/>
                          dṛśyate prakṛtau rūpaṃ yadā doṣadvayasya tu ||
                         <caesura/>
-                         saṃsarggan tam vijānīyāt saṃsarggas trividhaś cayaḥ || </l>
+                         saṃsarggan tam vijānīyāt saṃsarggas trividhaś ca yaḥ || </l>
 
                     <l xml:id="SS.3.4.78">
                         <label xml:lang="en">cf. 1938 ed. 3.4.78</label>
