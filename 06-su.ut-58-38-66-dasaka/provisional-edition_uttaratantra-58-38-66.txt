@@ -2851,7 +2851,8 @@
                         <list type="Testimonia">
                             <item xml:lang="en" corresp="#SS.6.64.39.add2">The reading of K
                                 <foreign>°jaṃghanāṃ</foreign>, which is unmetrical, has been emended
-                                to <foreign>°jaghanāṃ</foreign>, making a
+                                to <foreign>°jaghanāṃ</foreign>, which yields a better sense and
+                                restores the metre to a
                                 <foreign>na-vipulā</foreign>. Cf.<foreign>Suśrutasaṃhita</foreign>
                                 6.47.63: [...] <foreign>ukūlāḥ pīnastanorujaghanā
                                     haricandanāṅgyaḥ</foreign>|| </item>
@@ -2869,11 +2870,11 @@
                     <l xml:id="SS.6.64.39.add5">
                         <label xml:lang="en">6.64.39.add5</label>
                         <caesura/>
-                         tataś candrakarālokāṃ pradoṣaṃ sat suhṛjjanaḥ | </l>
+                         tataś candrakarālokaṃ pradoṣaṃ satsuhṛjjanaḥ | </l>
                     <l xml:id="SS.6.64.39.add6">
                         <label xml:lang="en">6.64.39.add6</label>
                         <caesura/>
-                         saṃseved athavā liṅgya śvapet kāntāṅgṛhodare || </l>
+                         saṃseved athavāliṅgya svapet kāntāṅ gṛhodare || </l>
                     <l xml:id="SS.6.64.39.add7">
                         <label xml:lang="en">6.64.39.add7</label>
                         <caesura/>
