@@ -2263,7 +2263,14 @@
                         <caesura/>
                          suptaḥ san sakamalahaṃsacakravākān
                         <caesura/>
-                         sampaśyed api ca jalāśrayān manojñān || </l>
+                         sampaśyed api ca jalāśrayān manojñān ||<anchor n="SS.3.4.73-n1"/></l>
+                    
+                    <ab corresp="#SS.3.4.73" type="apparatus">
+                        <list type="Testimonia">
+                            <item corresp="#SS.3.4.73-n1" xml:lang="en">Cf. <title>Aṣṭāṅgasaṅgraha</title> Śārīrasthāna 8.14cd: <foreign xml:lang="sa">svapne sapadmān savihaṅgamālāṃs toyāśayān paśyati toyadāṃś ca ||</foreign> and
+                                <title>Aṣṭāṅgahṛdaya</title> Śārīrasthāna 3.102cd: <foreign xml:lang="sa">svapne sapadmān savihaṅgamālāṃs toyāśayān paśyati toyadāṃś ca ||</foreign>.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.3.4.74" met="toṭaka"/>
 
