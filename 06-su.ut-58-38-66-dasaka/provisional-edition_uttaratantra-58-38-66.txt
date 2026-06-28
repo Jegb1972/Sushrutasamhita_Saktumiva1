@@ -3032,11 +3032,11 @@
                     <l xml:id="SS.6.64.46.add9">
                         <label xml:lang="en">6.64.46.add9</label>
                         <caesura/>
-                         prodbhinnakandale syāmakadambakuṭajārjyane | </l>
+                        prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjune | </l>
                     <l xml:id="SS.6.64.46.add10">
                         <label xml:lang="en">6.64.46.add10</label>
                         <caesura/>
-                         mālatīkusumāmodadaśāśāpūritembare | </l>
+                         mālatīkusumāmodadaśāśāpūrite 'mbare | </l>
                     <l xml:id="SS.6.64.46.add11">
                         <label xml:lang="en">6.64.46.add11</label>
                         <caesura/>
@@ -3048,7 +3048,7 @@
                     <l xml:id="SS.6.64.46.add13">
                         <label xml:lang="en">6.64.46.add13</label>
                         <caesura/>
-                         śikhaṇḍināyakavarairnārambhakṛtotsave | </l>
+                        śikhaṇḍināyakavarair nādyārambhakṛtotsave | </l>
                     <l xml:id="SS.6.64.46.add14">
                         <label xml:lang="en">6.64.46.add14</label>
                         <caesura/>
