@@ -3032,7 +3032,7 @@
                     <l xml:id="SS.6.64.46.add9">
                         <label xml:lang="en">6.64.46.add9</label>
                         <caesura/>
-                         prodbhinnakandale syāmakadambakuṭajārjyane | </l>
+                        prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjane | </l>
                     <l xml:id="SS.6.64.46.add10">
                         <label xml:lang="en">6.64.46.add10</label>
                         <caesura/>

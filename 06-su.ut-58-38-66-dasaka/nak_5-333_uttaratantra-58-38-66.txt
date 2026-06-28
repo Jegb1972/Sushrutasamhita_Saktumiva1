@@ -2450,7 +2450,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.46.add8">
                         pravṛddhaga<del>mbhīrara</del><cb/>mbhīraraver mmeghair
                         ativināditaiḥ | </l>
-                    <l xml:id="SS.6.64.46.add9"> prodbhinnakandale ṣyāmakadambakuṭajārjjane || </l>
+                    <l xml:id="SS.6.64.46.add9"> prodbhinna<pc> </pc>kandale śyāmakadambakuṭajārjjane || </l>
                     <l xml:id="SS.6.64.46.add10"> mālatīkusumāmo<lb n="3"/>dadaśāśāpūrite mbare
                         | </l>
                     <l xml:id="SS.6.64.46.add11"> surendragopamaṇḍūkaiḥ
