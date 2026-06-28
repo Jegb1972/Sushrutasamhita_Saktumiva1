@@ -2142,7 +2142,8 @@ iii) 19ef is placed after 18ab     -->
                         <unclear>pu</unclear>ṣpi<unclear>to</unclear> valī || </l>
                     <l xml:id="SS.6.64.46.add8"> pravṛddhaga<unclear reason="damaged"
                             >mbhī</unclear>raravair meghair ativinādite | </l>
-                    <l xml:id="SS.6.64.46.add9"> prodbhinna<pc> </pc>kandalaśyāmakadambakuṭa<unclear>jā</unclear>rjjane | </l>
+                    <l xml:id="SS.6.64.46.add9"> prodbhinna<pc>
+                    </pc>kandalaśyāmakadambakuṭa<unclear>jā</unclear>rjjune | </l>
                     <l xml:id="SS.6.64.46.add10"> mālatīku<unclear reason="damaged"
                             >su</unclear><cb/>māmodadaśāśāpūrite mbare | </l>
                     <l xml:id="SS.6.64.46.add11"> surendragopamaṇḍ<unclear>ū</unclear>kaiḥ
