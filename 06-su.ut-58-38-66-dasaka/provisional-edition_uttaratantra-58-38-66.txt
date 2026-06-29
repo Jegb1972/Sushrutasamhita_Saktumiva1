@@ -3081,7 +3081,7 @@
                     <l xml:id="SS.6.64.50">
                         <label xml:lang="en">cf. 1938 ed. 6.64.50</label>
                         <caesura/>
-                         navāmburūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
+                         navāmbu rūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
                         <caesura/>
                          yavaṣaṣṭikaśālīṃś ca godhumānanavāṃs tathā | </l>
 

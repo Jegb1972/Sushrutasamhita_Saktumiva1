@@ -2167,7 +2167,7 @@ iii) 19ef is placed after 18ab     -->
                             >t</add> kiñ ci<lb n="5"/>d abhiṣyandi tathaiva ca | </l>
 
 
-                    <l xml:id="SS.6.64.50"> navāmburūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
+                    <l xml:id="SS.6.64.50"> navāmbu rūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
                         <caesura/>
                          yavaṣaṣṭikaśālīṃś ca go<cb/>dhumānanavāṃs tathā | </l>
 
