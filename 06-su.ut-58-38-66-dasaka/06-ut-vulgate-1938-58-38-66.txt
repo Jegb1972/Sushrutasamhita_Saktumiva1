@@ -1774,7 +1774,7 @@
                     <l xml:id="SS.6.64.47ab"> payo māṃsarasāḥ koṣṇāstailāni ca ghṛtāni ca
                         | </l>
 
-                    <l xml:id="SS.6.64.47cd"> bṛṃhaṇaṃ cāpi yat kiñcid abhiṣyandi tathaiva
+                    <l xml:id="SS.6.64.47cd"> bṛṃhaṇaṃ cāpi yat kiñ cid abhiṣyandi tathaiva
                         ca || </l>
 
                     <l xml:id="SS.6.64.48"> nidāghopacitaṃ caiva prakupyantaṃ samīraṇam |

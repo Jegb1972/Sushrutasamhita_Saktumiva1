@@ -3068,7 +3068,7 @@
                     <l xml:id="SS.6.64.48.add">
                         <label xml:lang="en">6.64.48.add</label>
                         <caesura/>
-                         caryāḥ sukhoṣṇāś caratās tailāni vividhāni ca || </l>
+                         caryāḥ sukhoṣṇāś ca ratās tailāni vividhāni ca || </l>
 
                     <l xml:id="SS.6.64.47ab"/>
 
