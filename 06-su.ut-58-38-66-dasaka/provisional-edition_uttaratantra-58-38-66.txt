@@ -3032,7 +3032,7 @@
                     <l xml:id="SS.6.64.46.add9">
                         <label xml:lang="en">6.64.46.add9</label>
                         <caesura/>
-                        prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjune | </l>
+                        prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjune || </l>
                     <l xml:id="SS.6.64.46.add10">
                         <label xml:lang="en">6.64.46.add10</label>
                         <caesura/>
@@ -3040,15 +3040,15 @@
                     <l xml:id="SS.6.64.46.add11">
                         <label xml:lang="en">6.64.46.add11</label>
                         <caesura/>
-                         surendragopamaṇḍūkaiḥ prakīrṇṇavasudhātale | </l>
+                         surendragopamaṇḍūkaiḥ prakīrṇṇavasudhātale || </l>
                     <l xml:id="SS.6.64.46.add12">
                         <label xml:lang="en">6.64.46.add12</label>
                         <caesura/>
-                         dvirephakṛtasaṅgītanalinīvanabhūṣite || </l>
+                         dvirephakṛtasaṅgītanalinīvanabhūṣite | </l>
                     <l xml:id="SS.6.64.46.add13">
                         <label xml:lang="en">6.64.46.add13</label>
                         <caesura/>
-                        śikhaṇḍināyakavarair nādyārambhakṛtotsave | </l>
+                        śikhaṇḍināyakavarair nādyārambhakṛtotsave || </l>
                     <l xml:id="SS.6.64.46.add14">
                         <label xml:lang="en">6.64.46.add14</label>
                         <caesura/>
@@ -3056,12 +3056,12 @@
                     <l xml:id="SS.6.64.46.add15">
                         <label xml:lang="en">6.64.46.add15</label>
                         <caesura/>
-                         śītavātābhravarṣais tu vāyuḥ prāvṛṣi kupyati | </l>
+                         śītavātābhravarṣais tu vāyuḥ prāvṛṣi kupyati || </l>
 
                     <l xml:id="SS.6.64.48">
                         <label xml:lang="en">cf. 1938 ed. 6.64.48</label>
                         <caesura/>
-                         nidāghopacitaṃ caiva prakupyantaṃ samīraṇaṃ |
+                         nidāghopacitaṃ caiva prakupyantaṃ samīraṇam |
                         <caesura/>
                          nihanyād avilambena vidhinā vyādhikovidaḥ | </l>
 

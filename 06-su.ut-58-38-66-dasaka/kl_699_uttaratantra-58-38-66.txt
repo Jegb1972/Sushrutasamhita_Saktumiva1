@@ -2146,13 +2146,12 @@ iii) 19ef is placed after 18ab     -->
                     </pc>kandalaśyāmakadambakuṭa<unclear>jā</unclear>rjjune | </l>
                     <l xml:id="SS.6.64.46.add10"> mālatīku<unclear reason="damaged"
                             >su</unclear><cb/>māmodadaśāśāpūrite mbare | </l>
-                    <l xml:id="SS.6.64.46.add11"> surendragopamaṇḍ<unclear>ū</unclear>kaiḥ
+                    <l xml:id="SS.6.64.46.add11"> surendragopamaṇḍūkaiḥ
                         prakīrṇṇavasudhātale | </l>
                     <l xml:id="SS.6.64.46.add12"> dvirephakṛtasaṅgīta<lb n="4"/>nal<add
                             place="inline">i</add>nīvanabhūṣite || </l>
                     <l xml:id="SS.6.64.46.add13">
-                        śi<unclear>kha</unclear>ṇḍināyakavarair nā<unclear extent="1"
-                            reason="illegible" unit="char"/>rambhakṛtotsave | </l>
+                        śikhaṇḍināyakavarair nādyārambhakṛtotsave | </l>
                     <l xml:id="SS.6.64.46.add14"> daurbalyakāṣṭhāṃ paramāṃ ya<cb/>dā gacchati
                         bhāskare | </l>
                     <l xml:id="SS.6.64.46.add15"> śītavātābhravarṣais tu vā<unclear
