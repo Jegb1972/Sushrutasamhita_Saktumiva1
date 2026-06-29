@@ -2468,7 +2468,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          nihanyād avilambena vidhi<lb n="5"/>nā vyādhikovidaḥ || </l>
 
-                    <l xml:id="SS.6.64.48.add"> caryāḥ sukhoṣṇāśyaratās tailāni
+                    <l xml:id="SS.6.64.48.add"> caryāḥ sukhoṣṇāś ya ratās tailāni
                         vividhā<cb/>ni ca | </l>
 
                     <l xml:id="SS.6.64.47cd"> bṛṃhaṇa<gap reason="omitted" extent="3"
