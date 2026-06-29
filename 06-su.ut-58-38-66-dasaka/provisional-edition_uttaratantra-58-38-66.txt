@@ -3075,7 +3075,7 @@
                     <l xml:id="SS.6.64.47cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.47cd</label>
                         <caesura/>
-                         bṛṃhaṇañ cāpi yatkiñcidabhiṣyandi tathaiva ca | </l>
+                         bṛṃhaṇañ cāpi yat kiñ cid abhiṣyandi tathaiva ca | </l>
 
                     <l xml:id="SS.6.64.49"/>
                     <l xml:id="SS.6.64.50">
