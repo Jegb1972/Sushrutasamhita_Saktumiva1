@@ -2476,7 +2476,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.50"> navāmburūkṣaśītānnaṃ śaktūṃś cāpi vivarjjayet
+                    <l xml:id="SS.6.64.50"> navāmbu rūkṣaśītānnaṃ śaktūṃś cāpi vivarjjayet
                             |<lb n="6"/>
                         <caesura/>
                          yavaṣaṣṭikaśālīṃś ca<gap reason="omitted" extent="6" unit="char"
@@ -2488,7 +2488,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          saviṣaprāṇiviṇmūtralālāniṣṭhīvanādibhiḥ || </l>
 
                     <l xml:id="SS.6.64.52"> samāplutan tadā toya<pb n="410r" facs="414"
-                            />māntarīkṣa<unclear>ṃ</unclear> viṣopamaṃ |
+                            />m āntarīkṣa<unclear>ṃ</unclear> viṣopamaṃ |
                         <caesura/>
                          vāyunā viṣajuṣṭena prāvṛṣe yena dūṣitam || </l>
 
