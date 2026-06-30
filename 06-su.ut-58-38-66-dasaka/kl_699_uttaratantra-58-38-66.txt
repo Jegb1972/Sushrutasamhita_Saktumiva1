@@ -2199,7 +2199,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.55a">
                         <pb facs="265" n="207v"/><lb n="1"/><g
                             ref="#newa-placeholder-mark"/> bhūyo va<unclear
-                            reason="damaged">rṣāt tu parjanyo gaṃ</unclear>gāyā dakṣiṇe
+                            reason="damaged">rṣī tu parjanyo gaṃ</unclear>gāyā dakṣiṇe
                         ja<cb/>ne | </l>
 
                     <l xml:id="SS.6.64.55b"> tatra ca pr<unclear reason="torn"
