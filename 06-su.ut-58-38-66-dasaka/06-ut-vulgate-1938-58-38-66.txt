@@ -1804,7 +1804,7 @@
                         <caesura/>
                          ariṣṭāsavamaireyān sopadaṃśāṃs tu yuktitaḥ || </l>
 
-                    <l xml:id="SS.6.64.54"> pibet prāvṛṣi jīrṇāṃs tu rātrau tānapi
+                    <l xml:id="SS.6.64.54"> pibet prāvṛṣi jīrṇāṃs tu rātrau tān api
                         varjayet |
                         <caesura/>
                          nirūhair bastibhiś cānyais tathānyair mārutāpahaiḥ || </l>
