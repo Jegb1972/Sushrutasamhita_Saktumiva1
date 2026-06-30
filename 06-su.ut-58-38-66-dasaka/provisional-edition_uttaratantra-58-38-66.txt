@@ -3121,12 +3121,12 @@
                     <l xml:id="SS.6.64.55a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55a</label>
                         <caesura/>
-                         bhūyo varṣāt tu parjanyo gaṃgāyā dakṣiṇe jane | </l>
+                         bhūyo varṣī tu parjanyo gaṃgāyā dakṣiṇe jane | </l>
 
                     <l xml:id="SS.6.64.55b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55b</label>
                         <caesura/>
-                         tatra ca prāvṛt vapārthyo ṛtū teṣāṃ prakīrttitau | </l>
+                        tatra ca prāvṛtvarṣākhyau ṛtū teṣāṃ prakīrttitau | </l>
 
                     <l xml:id="SS.6.64.55c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55c</label>

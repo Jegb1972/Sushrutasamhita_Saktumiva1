@@ -2203,7 +2203,7 @@ iii) 19ef is placed after 18ab     -->
                         ja<cb/>ne | </l>
 
                     <l xml:id="SS.6.64.55b"> tatra ca pr<unclear reason="torn"
-                        >ā</unclear>vṛt vapārthyo ṛt<unclear>ū</unclear>
+                            >ā</unclear>vṛtvarṣākhyau ṛt<unclear>ū</unclear>
                             teṣā<unclear>ṃ</unclear> pra<unclear reason="damaged"
                             >kīrttitau</unclear> | </l>
 

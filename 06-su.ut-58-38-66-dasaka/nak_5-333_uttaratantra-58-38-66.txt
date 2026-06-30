@@ -2505,10 +2505,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.55ab"> kupitaṃ śamayed vātam vārṣikañ ca
                         cared vidhiṃ | </l>
 
-                    <l xml:id="SS.6.64.55a"> bhūyo varṣītu parjjyanyo<lb n="3"/>
+                    <l xml:id="SS.6.64.55a"> bhūyo varṣī tu parjjyanyo<lb n="3"/>
                         gaṅgāyā dakṣiṇe jane || </l>
 
-                    <l xml:id="SS.6.64.55b"> tatra ca pravṛt vapārthyo ṛtū teṣāṃ
+                    <l xml:id="SS.6.64.55b"> tatra ca pravṛtvapārthyo ṛtū teṣāṃ
                         pra<cb/>kīrttitau || </l>
 
                     <l xml:id="SS.6.64.55c"> tasya evottare deṣe himavad dravyasaṃkule | </l>
