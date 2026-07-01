@@ -2511,22 +2511,24 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.55b"> tatra ca pravṛtvapārthyo ṛtū teṣāṃ
                         pra<cb/>kīrttitau || </l>
 
-                    <l xml:id="SS.6.64.55c"> tasya evottare deṣe himavad dravyasaṃkule | </l>
+                    <l xml:id="SS.6.64.55c"> tasya evottare deṣe himavaddravyasaṃkule | </l>
 
-                    <l xml:id="SS.6.64.55d"> bhūyaḥ śītatamas tatra hemantaśiśiregratū || </l>
+                    <l xml:id="SS.6.64.55d"> bhūyaḥ śītatamas tatra hemantaśiśire ṛtū || </l>
                     <lb n="4"/>
 
-                    <l xml:id="SS.6.64.55cd"> ṛtāvṛtau ya etena vidhinā varttate naraḥ | </l>
+                    <l xml:id="SS.6.64.55cd"> ṛtāv ṛtau ya etena vidhinā varttate naraḥ | </l>
 
-                    <l xml:id="SS.6.64.56"> ghorānṛtukṛtā<cb/>n rogānnāpnuyān na kadācana
+                    <l xml:id="SS.6.64.55ef"> ghorān ṛtukṛtā<cb/>n rogān nāpnuyān na kadā cana
                         ||
-                        <caesura/>
+                    </l>
+                    
+                    <l xml:id="SS.6.64.56">
                          ata ūrddhvan dvādaśāśanapravicārān vakṣyāmaḥ ||
                         <caesura/>
-                         tad yathā śītoṣṇasnigdharū<lb n="5"
-                            />kṣadravaśuṣkekakālikauṣadhayuktahīnamātrādoṣa<gap
+                        tad yathā śītoṣṇasnigdharū<lb n="5"
+                        />kṣadrava<pc> </pc>śuṣkeka<pc> </pc>kālikauṣadhayukta<pc> </pc>hīnamātrā<pc> </pc>doṣa<gap
                             reason="omitted" extent="2" unit="char"
-                        />manapra<cb/>vṛddhyarthān || </l>
+                        />mana<pc> </pc>pra<cb/>vṛddhyarthān || </l>
 
                     <l xml:id="SS.6.64.57"> tṛṣṇāmadavidāhārtād raktapittaviṣāturān<add
                             place="inline">|</add>

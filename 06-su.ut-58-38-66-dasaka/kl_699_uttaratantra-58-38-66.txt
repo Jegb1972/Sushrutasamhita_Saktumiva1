@@ -2212,20 +2212,20 @@ iii) 19ef is placed after 18ab     -->
                         >saṃ</unclear>kule | </l>
 
                     <l xml:id="SS.6.64.55d"> bhūyaḥ śītatamas tatra hemantaśiśire
-                            ṛt<unclear>ū</unclear> || </l>
+                            ṛtū || </l>
 
-                    <l xml:id="SS.6.64.55cd"> ṛtāvṛ<cb/><unclear reason="damaged"
-                            >tau</unclear>ya etena vidhinā varttate naraḥ | </l>
+                    <l xml:id="SS.6.64.55cd"> ṛtāv ṛ<cb/>tau ya etena vidhinā varttate naraḥ | </l>
 
+                    <l xml:id="SS.6.64.55ef">
+                            ghorān ṛtukṛtān rogān āpnuyāt sa kadā canaḥ |
+                    </l>
+                    
                     <l xml:id="SS.6.64.56">
-                            ghorā<unclear>nṛtu</unclear>kṛtānrogānāpnuyā<unclear>t
-                            na</unclear> kadācanaḥ |
-                        <caesura/>
-                         ata ūrdhvaṃ dvāda<unclear>śāsana</unclear>pravi<lb n="2"/>cārām
+                         ata ūrdhvaṃ dvāda<unclear>śāśana</unclear>pravi<lb n="2"/>cārām
                         vakṣyāmaḥ |
                         <caesura/>
                          tad yathā
-                        śītoṣṇasnigdharūkṣadravaśuṣkekakālikadvikālikauṣadhayuktahīnamātradoṣa<cb/>praśamanapravṛdhyathāṃ
+                         śītoṣṇasnigdharūkṣadrava<pc> </pc>śuṣkeka<pc> </pc>kālikadvikālikauṣadhayukta<pc> </pc>hīnamātra<pc> </pc>doṣa<cb/>praśamana<pc> </pc>pravṛdhyathāṃ
                         || </l>
 
                     <l xml:id="SS.6.64.57"> tṛṣṇāmadavidārhārttāt ra<unclear reason="torn"

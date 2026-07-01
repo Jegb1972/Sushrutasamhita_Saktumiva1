@@ -1816,12 +1816,12 @@
 
            
 
-                    <l xml:id="SS.6.64.56"> ghorān ṛtukṛtān rogān nāpnoti sa kadācana |
-                        <caesura/>
-                         ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ |
+                    <l xml:id="SS.6.64.55ef"> ghorān ṛtukṛtān rogān nāpnoti sa kadā cana | </l>
+                       
+                        <l xml:id="SS.6.64.56"> ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ |
                         <caesura/>
                          tatra
-                        śīroṣṇasnigdharūkṣadravaśuṣkaikakālikadvikālikauṣadhayuktamātrāhīnadoṣapraśamanavṛttyarthāḥ
+                         śītoṣṇasnigdharūkṣadrava<pc> </pc>śuṣkaika<pc> </pc>kālikadvikālikauṣadhayukta<pc> </pc>mātrāhīna<pc> </pc>doṣapraśamana<pc> </pc>vṛttyarthāḥ
                         || </l>
 
                     <l xml:id="SS.6.64.57"> tṛṣṇoṣṇamadadāhārtān raktapittaviṣāturān |

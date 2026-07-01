@@ -3141,17 +3141,21 @@
                     <l xml:id="SS.6.64.55cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55cd</label>
                         <caesura/>
-                         ṛtāvṛtauya etena vidhinā varttate naraḥ | </l>
+                         ṛtāv ṛtau ya etena vidhinā varttate naraḥ | </l>
 
+                    <l xml:id="SS.6.64.55ef">
+                        <label xml:lang="en">cf. 1938 ed. 6.64.55ef</label>
+                        <caesura/>
+                         ghorān ṛtukṛtān rogān nāpnuyāt sa kadā cana |
+                    </l>
+                    
                     <l xml:id="SS.6.64.56">
                         <label xml:lang="en">cf. 1938 ed. 6.64.56</label>
                         <caesura/>
-                         ghorānṛtukṛtānrogānāpnuyāt na kadācanaḥ |
-                        <caesura/>
-                         ata ūrdhvaṃ dvādaśāsanapravicārām vakṣyāmaḥ |
-                        <caesura/>
-                         tad yathā
-                        śītoṣṇasnigdharūkṣadravaśuṣkekakālikadvikālikauṣadhayuktahīnamātradoṣapraśamanapravṛdhyathāṃ
+                         ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ |
+                         tad yathā śītoṣṇasnigdharūkṣadrava<pc>
+                         </pc>śuṣkaika<pc> </pc>kālikadvikālikauṣadhayukta<pc> </pc>hīnamātra<pc>
+                         </pc>doṣapraśamana<pc> </pc>pravṛddhyarthān
                         || </l>
 
                     <l xml:id="SS.6.64.57">
