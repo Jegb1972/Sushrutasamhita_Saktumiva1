@@ -2190,20 +2190,20 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.54"> pibet prāvṛṣi jīrṇṇāṃs tu<cb/> rātrau prāvṛṣi
                         varjayet |
                         <caesura/>
-                         nirūhaibasti<unclear reason="damaged">bhi</unclear>ś cāpi
+                         nirūhair basti<unclear reason="damaged">bhi</unclear>ś cāpi
                         tathānyair mārutāpahaiḥ | </l>
 
                     <l xml:id="SS.6.64.55ab"> kupitaṃ śamayed vātaṃ vārṣikañ ca
-                        caredvidhiṃ | </l>
+                        cared vidhiṃ | </l>
 
                     <l xml:id="SS.6.64.55a">
                         <pb facs="265" n="207v"/><lb n="1"/><g
                             ref="#newa-placeholder-mark"/> bhūyo va<unclear
-                            reason="damaged">rṣāt tu parjanyo gaṃ</unclear>gāyādakṣiṇe
+                            reason="damaged">rṣī tu parjanyo gaṃ</unclear>gāyā dakṣiṇe
                         ja<cb/>ne | </l>
 
                     <l xml:id="SS.6.64.55b"> tatra ca pr<unclear reason="torn"
-                        >ā</unclear>vṛt vaṣākhyo ṛt<unclear>ū</unclear>
+                            >ā</unclear>vṛtvarṣākhyau ṛt<unclear>ū</unclear>
                             teṣā<unclear>ṃ</unclear> pra<unclear reason="damaged"
                             >kīrttitau</unclear> | </l>
 

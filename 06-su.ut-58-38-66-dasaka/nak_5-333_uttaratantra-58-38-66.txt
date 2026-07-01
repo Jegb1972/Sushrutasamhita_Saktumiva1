@@ -2500,15 +2500,15 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.54"> pibe<lb n="2"/>t prāvṛṣi jīrṇṇāṃs tu rātrau
                         prāvṛṣi varjjayet |
                         <caesura/>
-                         nirūhair bastibhi<cb/>ś cāpi tathānye mārutāpahaiḥ || </l>
+                         nirūhair bbastibhi<cb/>ś cāpi tathānye mārutāpahaiḥ || </l>
 
                     <l xml:id="SS.6.64.55ab"> kupitaṃ śamayed vātam vārṣikañ ca
-                        caredvidhiṃ | </l>
+                        cared vidhiṃ | </l>
 
-                    <l xml:id="SS.6.64.55a"> bhūyo varṣītu parjjyanyo<lb n="3"/>
-                        gaṅgāyādakṣiṇejane || </l>
+                    <l xml:id="SS.6.64.55a"> bhūyo varṣī tu parjjyanyo<lb n="3"/>
+                        gaṅgāyā dakṣiṇe jane || </l>
 
-                    <l xml:id="SS.6.64.55b"> tatra ca pravṛt vapārthyo ṛtū teṣāṃ
+                    <l xml:id="SS.6.64.55b"> tatra ca pravṛtvapārthyo ṛtū teṣāṃ
                         pra<cb/>kīrttitau || </l>
 
                     <l xml:id="SS.6.64.55c"> tasya evottare deṣe himavad dravyasaṃkule | </l>

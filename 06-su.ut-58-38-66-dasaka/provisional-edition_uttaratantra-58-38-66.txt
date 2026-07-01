@@ -3104,29 +3104,29 @@
                         <caesura/>
                          tad dhi sarvopayogeṣu tasmin kāle vivarjayet |
                         <caesura/>
-                         ariṣṭāsavam aireyān sopadaṃśāṃś ca yuktitaḥ | </l>
+                         ariṣṭāsavamaireyān sopadaṃśāṃś ca yuktitaḥ | </l>
 
                     <l xml:id="SS.6.64.54">
                         <label xml:lang="en">cf. 1938 ed. 6.64.54</label>
                         <caesura/>
                          pibet prāvṛṣi jīrṇṇāṃs tu rātrau prāvṛṣi varjayet |
                         <caesura/>
-                         nirūhaibastibhiś cāpi tathānyair mārutāpahaiḥ | </l>
+                         nirūhair bastibhiś cāpi tathānyair mārutāpahaiḥ | </l>
 
                     <l xml:id="SS.6.64.55ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55ab</label>
                         <caesura/>
-                         kupitaṃ śamayed vātaṃ vārṣikañ ca caredvidhiṃ | </l>
+                         kupitaṃ śamayed vātaṃ vārṣikañ ca cared vidhim | </l>
 
                     <l xml:id="SS.6.64.55a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55a</label>
                         <caesura/>
-                         bhūyo varṣāt tu parjanyo gaṃgāyādakṣiṇe jane | </l>
+                         bhūyo varṣī tu parjanyo gaṃgāyā dakṣiṇe jane | </l>
 
                     <l xml:id="SS.6.64.55b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55b</label>
                         <caesura/>
-                         tatra ca prāvṛt vaṣākhyo ṛtū teṣāṃ prakīrttitau | </l>
+                        tatra ca prāvṛtvarṣākhyau ṛtū teṣāṃ prakīrttitau | </l>
 
                     <l xml:id="SS.6.64.55c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55c</label>
