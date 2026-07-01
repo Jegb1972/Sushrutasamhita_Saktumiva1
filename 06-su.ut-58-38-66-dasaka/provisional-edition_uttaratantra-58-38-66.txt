@@ -1674,7 +1674,7 @@
                         <caesura/>
                          śvāvidchālyakagodhānāṃ tathaiva nakuloṣṭrayauḥ |
                         <caesura/>
-                         vidadhītavasāmūtraṃ rattapittanakhatvacaḥ | </l>
+                         vidadhītavasāmūtraṃ raktapittanakhatvacaḥ | </l>
 
                     <l xml:id="SS.6.60.51">
                         <label xml:lang="en">cf. 1938 ed. 6.60.51</label>
@@ -3162,7 +3162,7 @@
                     <l xml:id="SS.6.64.57">
                         <label xml:lang="en">cf. 1938 ed. 6.64.57</label>
                         <caesura/>
-                         tṛṣṇāmadavidārhārttāt raktapittaviṣāt turān |
+                         tṛṣṇāmadavidāhārttāt raktapittaviṣāt turān |
                         <caesura/>
                          saṃmūrcchā strīṣu ca kṣīṇyaṃ śītair annair upācaret | </l>
 
