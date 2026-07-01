@@ -1165,7 +1165,7 @@
                         cītraṃ balim upāharet | </l>
 
                     <l xml:id="SS.6.60.38"> na śakyā balinā yetu
-                            yogaistā<unclear>ṃ</unclear> samupācaret |
+                            yogais tā<unclear>ṃ</unclear> samupācaret |
                         <caesura/>
                          ja<cb/>nvṛkṣacarmaromāṇi śalyakālasunan tathā | </l>
 
@@ -1540,10 +1540,10 @@ iii) 19ef is placed after 18ab     -->
 
 
 
-                    <l xml:id="SS.6.62.15a"> cūr<unclear>ṇṇaṃ śukyā</unclear>tha nāḍyā vā
+                    <l xml:id="SS.6.62.15.add"> cūr<unclear>ṇṇaṃ śukyā</unclear>tha nāḍyā vā
                         pradhame <unclear>vvā</unclear>syata<unclear>stavyo</unclear>ḥ | </l>
 
-                    <l xml:id="SS.6.62.16"> satataṃ dhūpayec cainaṃ śvagomāṃsaistupūtibhiḥ
+                    <l xml:id="SS.6.62.16"> satataṃ dhūpayec cainaṃ śvagomāṃsais tupūtibhiḥ
                         |
                         <caesura/>
                          sarṣapānyañ ca tailena nasyābhya<cb/><unclear>ṅgai</unclear>

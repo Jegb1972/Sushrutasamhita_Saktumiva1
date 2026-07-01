@@ -938,7 +938,7 @@
                     <l xml:id="SS.6.60.37cd"> pūrvamācaritairmantrairbhūtavidyānidarśitaiḥ
                         || </l>
 
-                    <l xml:id="SS.6.60.38"> na śakyā balibhir jetuṃ yogaistān samupācaret
+                    <l xml:id="SS.6.60.38"> na śakyā balibhir jetuṃ yogais tān samupācaret
                         |
                         <caesura/>
                          ajarkṣacarmaromāṇi śalyakolūkayos tathā || </l>
@@ -1255,7 +1255,7 @@
                          mānaso 'yamato vyādhirunmāda iti kīrtitaḥ || </l>
 
                     <l xml:id="SS.6.62.4"> ekaikaśaḥ samastaiś ca
-                        doṣairatyarthamūrcchitaiḥ |
+                        doṣair atyarthamūrcchitaiḥ |
                         <caesura/>
                          mānasena ca duḥkhena sa pañcavidha ucyate || </l>
 
@@ -1296,8 +1296,8 @@
 
 
 
-                    <l xml:id="SS.6.62.12"> caurairnarendrapuruṣairaribhis
-                        tathānyairvitrāsitasya dhanabāndhavasaṃkṣayādvā |
+                    <l xml:id="SS.6.62.12"> caurairnarendrapuruṣair aribhis
+                        tathānyair vitrāsitasya dhanabāndhavasaṃkṣayādvā |
                         <caesura/>
                          gāḍhaṃ kṣate manasi ca priyayā riraṃsorjāyeta cotkaṭataro manaso
                         vikāraḥ || </l>
@@ -1316,7 +1316,7 @@
                     <l xml:id="SS.6.62.15ab"> vividhair avapīḍaiś ca sarṣapasnehasaṃyutaiḥ
                         | </l>
 
-                    <l xml:id="SS.6.62.15cd"> yojayitvā tu taccūrṇaṃ ghrāṇe tasya
+                    <l xml:id="SS.6.62.15cd"> yojayitvā tu tac cūrṇaṃ ghrāṇe tasya
                         prayojayet || </l>
 
                     <l xml:id="SS.6.62.16"> satataṃ dhūpayec cainaṃ śvagomāṃsaiḥ
@@ -1324,10 +1324,10 @@
                         <caesura/>
                          sarṣapānāṃ ca tailena nasyābhyaṅgau hitau sadā || </l>
 
-                    <l xml:id="SS.6.62.17"> darśayed adbhutānyasya vadennāśaṃ priyasya vā
+                    <l xml:id="SS.6.62.17"> darśayed adbhutānyasya vaden nāśaṃ priyasya vā
                         |
                         <caesura/>
-                         bhīmākārairnarairnāgairdāntairvyālaiś ca nirviṣaiḥ || </l>
+                         bhīmākārair narair nāgair dāntair vyālaiś ca nirviṣaiḥ || </l>
 
 
 
@@ -2379,19 +2379,19 @@
                     <l xml:id="SS.6.24.18"> navaṃ pratiśyāyamapāsya sarvamupācaret sarpiṣa eva
                         pānaiḥ |
                         <caesura/>
-                         svedairvicitrairvamanaiś ca yuktaiḥ kālopapannair avapīḍanaiś ca || </l>
+                         svedair vicitrair vamanaiś ca yuktaiḥ kālopapannair avapīḍanaiś ca || </l>
 
 
-                    <l xml:id="SS.6.24.19"> apacyamānasya hi pācanārthaṃ svedo hito 'mlairahimaṃ ca
+                    <l xml:id="SS.6.24.19"> apacyamānasya hi pācanārthaṃ svedo hito 'mlair ahimaṃ ca
                         bhojyam |
                         <caesura/>
                          niṣevyamāṇaṃ payasārdrakaṃ vā saṃpācayed ikṣuvikārayogaiḥ || </l>
 
 
                     <l xml:id="SS.6.24.20"> pakvaṃ ghanaṃ cāpy avalambamānaṃ
-                        śirovirekairapakarṣayettam |
+                        śirovirekair apakarṣayettam |
                         <caesura/>
-                         virecanāsthāpanadhūmapānairavekṣya doṣān kavalagrahaiś ca || </l>
+                         virecanāsthāpanadhūmapānair avekṣya doṣān kavalagrahaiś ca || </l>
 
 
                     <l xml:id="SS.6.24.21"> nivātaśayyāsanaceṣṭanāni mūrdhno gurūṣṇaṃ ca tathaiva
@@ -2491,7 +2491,7 @@
                          kṣīramardhajale kvāthyaṃ jāṅgalairmṛgapakṣibhiḥ || </l>
 
 
-                    <l xml:id="SS.6.24.39"> puṣpairvimiśraṃ jalajair vātaghnairauṣadhair api |
+                    <l xml:id="SS.6.24.39"> puṣpair vimiśraṃ jalajair vātaghnair auṣadhair api |
                         <caesura/>
                          hime kṣīrāvaśiṣṭe 'smin ghṛtamutpādya yatnataḥ || </l>
 
