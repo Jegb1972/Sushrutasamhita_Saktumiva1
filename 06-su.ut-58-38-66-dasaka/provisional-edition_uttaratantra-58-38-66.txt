@@ -2865,7 +2865,7 @@
                     <lg xml:id="SS.6.64.31.add7">
                         <l>
                             <caesura/>
-                             dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu ||36|| </l>
+                             dineṣu jṛmbhamāṇeṣu hīyamānāsu rātriṣu ||36|| </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add8">
                         <l>
